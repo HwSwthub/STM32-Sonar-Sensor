@@ -1,5 +1,4 @@
-# Hardware & Software Project : STM32-Sonar-Sensor
-# Done by Abrassart Théo & Hubert Louis 
+# STM32-Sonar-Sensor
 
 
 ## Project 
@@ -9,8 +8,9 @@ To do this, the available files make it possible to understand the operation of 
 
 Here's a first look to the chip :
 
+<p align="center">
 ![alt text](https://media.rs-online.com/t_large/F9064624-01.jpg)
-
+</p>
 
 
 ## STM32 
