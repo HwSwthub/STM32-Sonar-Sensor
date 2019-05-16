@@ -38,4 +38,5 @@ As you can see on the Github, there are different files which are:
 1) Unzip the files ; 
 2) Read carefully the TutorialSTM32.pdf ; 
 3) Watch the video.mp4
-4) Launch the differents software and enjoy ! 
+4) Launch the differents software and follow the tutoriel for more informations
+5) Enjoy ! 
