@@ -15,7 +15,7 @@ Here's a first look to the chip :
 
 ## STM32 
 
-STM32 is a chip that is increasingly used in the world of electronics. 
+<div align="justify">STM32 is a chip that is increasingly used in the world of electronics. 
 We have created a tutorial to help you understand the basic concepts of the STM32 F303RE chip.
 The tutorial presents all the steps to create and develop a project both in terms of software and hardware.
 
@@ -24,7 +24,7 @@ The tutorial is progressive. At the beginning, the user will learn through the d
 * Uses of a button
 * Implementation of the I2C communication protocol
 * Implementation of the interrupts
-Then, the user will be able to realize a complete project by using the various notions acquired in the unit tests to drive a ultrasound sensor.
+Then, the user will be able to realize a complete project by using the various notions acquired in the unit tests to drive a ultrasound sensor.</div>
 
 
 
