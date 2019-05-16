@@ -12,7 +12,7 @@ Here's a first look to the chip :
 
 <div style="text-align:center"><img src="https://media.rs-online.com/t_large/F9064624-01.jpg" /></div>
 
-
+ <center><img src="https://media.rs-online.com/t_large/F9064624-01.jpg"></center>
 
 
 ## STM32 
