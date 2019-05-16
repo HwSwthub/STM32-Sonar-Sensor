@@ -12,7 +12,7 @@ To do this, the available files make it possible to understand the operation of 
 STM32 is a chip that is increasingly used in the world of electronics. 
 We have created a tutorial to help you understand the basic concepts of the STM32 F303RE chip.
 The tutorial presents all the steps to create and develop a project both in terms of software and hardware.
-The tutorial is progressive, at the beginning, the user will learn through the different unit tests (button control, led) before starting to develop a complete application using a distance sensor.
+The tutorial is progressive, at the beginning, the user will learn through the different unit tests (driving LED and button) before starting to develop a complete application using a distance sensor.
 
 
 
