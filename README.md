@@ -3,7 +3,7 @@
 
 ## Project 
 
-This project was done as part of the Hardware and Software course. This project allows to make links between software development and the use of hardware. 
+This project was done as part of the Hardware and Software course at the Faculty of Engineering of Mons. This project allows to make links between software development and the use of hardware. 
 To do this, the available files make it possible to understand the operation of the I2C and interrupts by using a STM32F303RE Nucleo 64 chip and an SRF02 distance sensor.
 
 
@@ -12,7 +12,13 @@ To do this, the available files make it possible to understand the operation of 
 STM32 is a chip that is increasingly used in the world of electronics. 
 We have created a tutorial to help you understand the basic concepts of the STM32 F303RE chip.
 The tutorial presents all the steps to create and develop a project both in terms of software and hardware.
-The tutorial is progressive, at the beginning, the user will learn through the different unit tests (driving LED and button) before starting to develop a complete application using a distance sensor.
+
+The tutorial is progressive. At the beginning, the user will learn through the different unit tests which are : 
+* Driving a LED 
+* Uses of a button
+* Implementation of the I2C communication protocol
+* Implementation of the interrupts
+Then, the user will be able to realize a complete project by using the various notions acquired in the unit tests to drive a ultrasound sensor.
 
 
 
