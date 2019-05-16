@@ -35,7 +35,7 @@ As you can see on the Github, there are different files which are:
 
 * STM32.zip (all codes related to sensor driving by the using of I2C and interrupts)
 * TutorialSTM32.pdf (Full tutorial of the different steps of this project explaining the use of I2C and interrupts)
-* Presentation.pptx (Powerpoint of the presention of the project which can give an overview about the realisation of the project)
+* Presentation.pdf (Powerpoint of the presention of the project which can give an overview about the realisation of the project)
 * Video.mp4 (Visual presentation of the different pins configuration that you can see on Youtube at this [link](https://youtu.be/smweBf85Wjg).)
 * DatasheetSRF02.pdf (Datasheet of the SRF02 sensor)
 
