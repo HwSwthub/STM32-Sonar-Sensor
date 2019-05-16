@@ -12,17 +12,7 @@ To do this, the available files make it possible to understand the operation of 
 STM32 is a chip that is increasingly used in the world of electronics. 
 We have created a tutorial to help you understand the basic concepts of the STM32 F303RE chip.
 The tutorial presents all the steps to create and develop a project both in terms of software and hardware.
-
-
-The STM32 is a new and popular processor and tool. 
-Similarly, you will need to prepare a tutorial based on one of the devices provided. 
-The difficulty will be to understand how to use and configure the tool for this target processor. 
-The tutorial should guide the user through the steps of creating a work application based 
-on the development tool, design flow, library, selected device and processor used: 
-it will then consist of preparing and configuring the tool, creating or selecting 
-(if the driver is already available in the library) a driver based on the selected device, 
-configuring the device and transferring data, creating the application that will display the final result.
- The tool will be available as well as the processor to use. Some examples of device use are also available.
+The tutorial is progressive, at the beginning, the user will learn through the different unit tests (button control, led) before starting to develop a complete application using a distance sensor.
 
 
 
