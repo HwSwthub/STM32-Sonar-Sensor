@@ -1,4 +1,5 @@
-# STM32-Sonar-Sensor
+# Hardware & Software Project : STM32-Sonar-Sensor
+# Done by Abrassart Théo & Hubert Louis 
 
 
 ## Project 
