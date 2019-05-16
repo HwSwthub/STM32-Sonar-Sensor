@@ -3,12 +3,11 @@
 
 ## Project 
 
-This project was done as part of the Hardware and Software course. This project allows possible to make links between software development and the use of hardware. 
-To do this, the files made available make it possible to understand the operation of the I2C 
-and interrupts by using a STM32F303RE Nucleo 64 chip and an SRF02 distance sensor.
+This project was done as part of the Hardware and Software course. This project allows to make links between software development and the use of hardware. 
+To do this, the files made available make it possible to understand the operation of the I2C and interrupts by using a STM32F303RE Nucleo 64 chip and an SRF02 distance sensor.
 
 
-STM32 : 
+## STM32 
 The STM32 is a new and popular processor and tool. 
 Similarly, you will need to prepare a tutorial based on one of the devices provided. 
 The difficulty will be to understand how to use and configure the tool for this target processor. 
@@ -22,7 +21,7 @@ configuring the device and transferring data, creating the application that will
 
 
 
-Items : 
+## Items 
 Among the different files on this github are: 
 - STM32.zip (all codes related to sensor driving by the using of I2C and interrupts)
 - TutorialSTM32.pdf (Full tutorial of the different steps of this project explaining the use of I2C and interrupts)
@@ -31,7 +30,7 @@ Among the different files on this github are:
 - DatasheetSRF02.pdf (Datasheet of the SRF02 sensor)
 
 
-How to start with STM32 ? 
+## How to start with STM32 ? 
 
 1) Unzip the files ; 
 2) Read carefully the TutorialSTM32.pdf ; 
