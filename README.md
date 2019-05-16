@@ -3,10 +3,8 @@
 
 ## Project 
 
-<p style="text-align:justify;">
-This project was done as part of the Hardware and Software course at the Faculty of Engineering of Mons. This project allows to make links between software development and the use of hardware. 
-To do this, the available files make it possible to understand the operation of the I2C and interrupts by using a STM32F303RE Nucleo 64 chip and an SRF02 distance sensor.
-</p>
+<p style="text-align:justify;"> This project was done as part of the Hardware and Software course at the Faculty of Engineering of Mons. This project allows to make links between software development and the use of hardware. 
+To do this, the available files make it possible to understand the operation of the I2C and interrupts by using a STM32F303RE Nucleo 64 chip and an SRF02 distance sensor.</p>
 
 Here's a first look to the chip :
 
