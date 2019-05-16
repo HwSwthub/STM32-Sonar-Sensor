@@ -1,4 +1,5 @@
-# STM32-Sonar-Sensor
+# Hardware & Software Project : STM32-Sonar-Sensor
+ 
 
 
 ## Project 
@@ -8,9 +9,8 @@ To do this, the available files make it possible to understand the operation of 
 
 Here's a first look to the chip :
 
-<p align="center">
 ![alt text](https://media.rs-online.com/t_large/F9064624-01.jpg)
-</p>
+
 
 
 ## STM32 
@@ -47,3 +47,7 @@ As you can see on the Github, there are different files which are:
 3) Watch the video.mp4
 4) Launch the differents software and follow the tutoriel for more informations
 5) Enjoy ! 
+
+
+
+###  Done by Abrassart Théo & Hubert Louis
