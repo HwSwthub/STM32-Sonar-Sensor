@@ -8,7 +8,7 @@ To do this, the available files make it possible to understand the operation of 
 
 Here's a first look to the chip :
 
-<div align="center"> ![alt text](https://media.rs-online.com/t_large/F9064624-01.jpg)</div>
+![alt text](https://media.rs-online.com/t_large/F9064624-01.jpg)
 
 
 
