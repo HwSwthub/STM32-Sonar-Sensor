@@ -10,7 +10,7 @@ To do this, the available files make it possible to understand the operation of 
 ## STM32 
 
 STM32 is a chip that is increasingly used in the world of electronics. 
-We have created a tutorial to help you understand the basic concepts of the STM32F303RE chip.
+We have created a tutorial to help you understand the basic concepts of the STM32 F303RE chip.
 The tutorial presents all the steps to create and develop a project both in terms of software and hardware.
 
 
