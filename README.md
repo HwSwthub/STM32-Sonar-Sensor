@@ -1,5 +1,4 @@
-# Hardware & Software Project : STM32-Sonar-Sensor
- 
+# STM32-Sonar-Sensor
 
 
 ## Project 
@@ -8,6 +7,7 @@
 To do this, the available files make it possible to understand the operation of the I2C and interrupts by using a STM32F303RE Nucleo 64 chip and an SRF02 distance sensor.</div>
 
 Here's a first look to the chip :
+
 
 ![alt text](https://media.rs-online.com/t_large/F9064624-01.jpg)
 
@@ -47,7 +47,3 @@ As you can see on the Github, there are different files which are:
 3) Watch the video.mp4
 4) Launch the differents software and follow the tutoriel for more informations
 5) Enjoy ! 
-
-
-
-###  Done by Abrassart Théo & Hubert Louis
