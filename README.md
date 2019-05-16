@@ -47,3 +47,6 @@ As you can see on the Github, there are different files which are:
 3) Watch the video.mp4
 4) Launch the differents software and follow the tutoriel for more informations
 5) Enjoy ! 
+
+
+### Done by Abrassart Théo & Hubert Louis
