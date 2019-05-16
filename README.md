@@ -7,6 +7,16 @@ This project was done as part of the Hardware and Software course at the Faculty
 To do this, the available files make it possible to understand the operation of the I2C and interrupts by using a STM32F303RE Nucleo 64 chip and an SRF02 distance sensor.
 
 
+Here's our logo (hover to see the title text):
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
+
+
+
+
 ## STM32 
 
 STM32 is a chip that is increasingly used in the world of electronics. 
